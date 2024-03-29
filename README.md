@@ -1,7 +1,5 @@
-Just a simple project to publish a working IPTV URL list because most m3u URLs out there were not maintained properly and frequently.
-This can be a very frustrating experience for any newbie.
+This  is just a simple project to publish a working IPTV URL list for Malaysia.
+Our goal is to produce a reliable list because most m3u URLs out there were not being maintained properly.
 
-To solve this problem, this project has few ideas:
+We can achieve this by creating a backend program that scan various IPTV URLs and test each one of them automatically. 
 
-1. Implement a web URL checker for each URL inside the IPTV URL list.
-2. Disable any URL with HTTP 404 error.
