@@ -1,80 +1,79 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rcsysx.github.io/iptv/img/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rcsysx.github.io/iptv/img/102.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://rcsysx.github.io/iptv/img/103.png",TV3
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://rcsysx.github.io/iptv/img/105.png",Enjoy TV5
 # bad https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://rcsysx.github.io/iptv/img/106.png",Drama Sangat
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://rcsysx.github.io/iptv/img/108.png",8TV
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #bad https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 #https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://rcsysx.github.io/iptv/img/109.png",TV9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rcsysx.github.io/iptv/img/110.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rcsysx.github.io/iptv/img/111.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rcsysx.github.io/iptv/img/113.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648103",TV Alhijrah
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://rcsysx.github.io/iptv/img/114.png",TV Alhijrah
 #bad https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://rcsysx.github.io/iptv/img/116.png",Suke TV
 #bad https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://rcsysx.github.io/iptv/img/121.png",Bernama
 # bad https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://rcsysx.github.io/iptv/img/122.png",TVS
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",Berita RTM1
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://rcsysx.github.io/iptv/img/123.png",Berita RTM1
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="124" tvg-id="124" tvg-chno="124" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",Berita RTM2
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="124" tvg-id="124" tvg-chno="124" tvg-logo="https://rcsysx.github.io/iptv/img/124.png",Berita RTM2
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://rcsysx.github.io/iptv/img/133.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 # -----------------------------------------------
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="501" tvg-id="AstroAwani" tvg-chno="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png?20240208030042",Astro Awani 
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="501" tvg-id="AstroAwani" tvg-chno="501" tvg-logo="https://rcsysx.github.io/iptv/img/501.png",Astro Awani 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://mma.prnewswire.com/media/1329392/Bloomberg_Quicktake.jpg?w=200",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://rcsysx.github.io/iptv/img/bloomq.png",Bloomberg Quicktake
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/768px-New_Bloomberg_Logo.svg.png",Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://rcsysx.github.io/iptv/img/bloomtv.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",BBC News Asia Pacific (720p)
+#EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://rcsysx.github.io/iptv/img/bbc.png",BBC News Asia Pacific (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 # -----------------------------------------------
-#
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://w7.pngwing.com/pngs/230/966/png-transparent-al-jazeera-english-logo-al-jazeera-america-calligraphy-others-television-food-logo-thumbnail.png",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://rcsysx.github.io/iptv/img/aljazeera.png",Al Jazeera English
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8 
