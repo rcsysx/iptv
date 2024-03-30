@@ -1,79 +1,107 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rcsysx.github.io/iptv/img/101.png",TV1
+#EXTINF:-1 tvg-group="FTV" tvg-id="101" tvg-name="TV1" tvg-logo="https://rcsysx.github.io/iptv/img/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rcsysx.github.io/iptv/img/102.png",TV2
+#EXTINF:-1 tvg-group="FTV" tvg-id="102" tvg-name="TV2" tvg-logo="http/usr/bin/sudo iw dev wlp3s0 links://rcsysx.github.io/iptv/img/102.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://rcsysx.github.io/iptv/img/103.png",TV3
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="103" tvg-name="TV3a" tvg-logo="https://rcsysx.github.io/iptv/img/103.png",TV3a
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://rcsysx.github.io/iptv/img/105.png",Enjoy TV5
+#EXTINF:-1 tvg-group="FTV" tvg-id="105" tvg-logo="https://rcsysx.github.io/iptv/img/105.png",Enjoy TV5
 # bad https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
+#EXTINF:-1 tvg-group="FTV" tvg-id="DRAMASANGAT" tvg-name="Drama Sangat" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png",Drama Sangat
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://rcsysx.github.io/iptv/img/106.png",Drama Sangat
+#EXTINF:-1 tvg-group="FTV" tvg-id="106" tvg-name="Drama Sangat2" tvg-logo="https://rcsysx.github.io/iptv/img/106.png",Drama Sangat2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
+#EXTINF:-1 tvg-group="FTV" tvg-id="108"  tvg-name="8TV" tvg-logo="https://rcsysx.github.io/iptv/img/108.png",8TV
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://rcsysx.github.io/iptv/img/108.png",8TV
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#bad https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
-#https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
-
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://rcsysx.github.io/iptv/img/109.png",TV9
+#EXTINF:-1 tvg-group="FTV" tvg-id="109" tvg-name="TV9" tvg-logo="https://rcsysx.github.io/iptv/img/109.png",TV9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rcsysx.github.io/iptv/img/110.png",OKEY
+#EXTINF:-1 tvg-group="FTV" tvg-id="110" tvg-name="OKEY2" tvg-logo="https://rcsysx.github.io/iptv/img/110.png",OKEY2
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rcsysx.github.io/iptv/img/111.png",Sukan RTM
+#EXTINF:-1 tvg-group="FTZ" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEY
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="111" tvg-name="Sukan RTM" tvg-logo="https://rcsysx.github.io/iptv/img/111.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rcsysx.github.io/iptv/img/113.png",TV6
+#EXTINF:-1 tvg-group="FTV" tvg-id="113" tvg-name="TV6" tvg-logo="https://rcsysx.github.io/iptv/img/113.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://rcsysx.github.io/iptv/img/114.png",TV Alhijrah
+#EXTINF:-1 tvg-group="FTV" tvg-id="107" tvg-name="DidikTv KPM" tvg-logo="https://rcsysx.github.io/iptv/img/107.png",DidikTv KPM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="114" tvg-logo="https://rcsysx.github.io/iptv/img/114.png",TV Alhijrah
 #bad https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://rcsysx.github.io/iptv/img/116.png",Suke TV
-#bad https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
+#EXTINF:-1 tvg-group="FTV" tvg-id="116" tvg-logo="https://rcsysx.github.io/iptv/img/116.png",Suke TV
+#bad https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozillatvg-name="AstroAwani"
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://rcsysx.github.io/iptv/img/121.png",Bernama
+#EXTINF:-1 tvg-group="FTV" tvg-id="502.astro" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="502" tvg-name="BERNAMA2" tvg-logo="https://rcsysx.github.io/iptv/img/121.png",Bernama2
 # bad https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://rcsysx.github.io/iptv/img/122.png",TVS
+#EXTINF:-1 tvg-group="FTV" tvg-id="122" tvg-name="TVS" tvg-logo="https://rcsysx.github.io/iptv/img/122.png",TVS
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://rcsysx.github.io/iptv/img/123.png",Berita RTM1
+#EXTINF:-1 tvg-group="FTV" tvg-id="123" tvg-name="BeritaRTM" tvg-logo="https://rcsysx.github.io/iptv/img/123.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="124" tvg-id="124" tvg-chno="124" tvg-logo="https://rcsysx.github.io/iptv/img/124.png",Berita RTM2
+#EXTINF:-1 tvg-group="FTV" tvg-id="124" tvg-name="BeritaRTM2" tvg-logo="https://rcsysx.github.io/iptv/img/124.png",Berita RTM2
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://rcsysx.github.io/iptv/img/133.png",TV IKIM
+#EXTINF:-1 tvg-group="FTV" tvg-id="117" tvg-name="Tv Ikim2" tvg-logo="https://rcsysx.github.io/iptv/img/117.png",TV IKIM2
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="tvikim" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 
 # -----------------------------------------------
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="501" tvg-id="AstroAwani" tvg-chno="501" tvg-logo="https://rcsysx.github.io/iptv/img/501.png",Astro Awani 
+#EXTINF:-1 tvg-group="FTV" tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://rcsysx.github.io/iptv/img/501.png",Astro Awani 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 tvg-group="FTV" tvg-id="501.astro" tvg-name="AstroAwani1" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani1
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://rcsysx.github.io/iptv/img/bloomq.png",Bloomberg Quicktake
+# --------------------
+#
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="Dewan Rakyat" tvg-name="DewanRakyat" tvg-logo="https://rcsysx.github.io/iptv/img/rtmp.png",Dewan Rakyat
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 tvg-group="FTV" tvg-id="Dewan Negara" tvg-name="DewanNegara" tvg-logo="https://rcsysx.github.io/iptv/img/rtmp.png",DewanNegara
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="BloomQ"  tvg-logo="https://rcsysx.github.io/iptv/img/bloomq.png",Bloomberg Quicktake
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://rcsysx.github.io/iptv/img/bloomtv.png",Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="BloomTV" tvg-logo="https://rcsysx.github.io/iptv/img/bloomtv.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://rcsysx.github.io/iptv/img/bbc.png",BBC News Asia Pacific (720p)
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC-AP"  tvg-logo="https://rcsysx.github.io/iptv/img/bbc.png",BBC News Asia Pacific (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 # -----------------------------------------------
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://rcsysx.github.io/iptv/img/aljazeera.png",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="aljaz" tvg-logo="https://rcsysx.github.io/iptv/img/aljazeera.png",Al Jazeera English
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8 
