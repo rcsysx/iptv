@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-group="FTV" tvg-id="101" tvg-name="TV1" tvg-logo="https://rcsysx.github.io/iptv/img/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="102" tvg-name="TV2" tvg-logo="http/usr/bin/sudo iw dev wlp3s0 links://rcsysx.github.io/iptv/img/102.png",TV2
+#EXTINF:-1 tvg-group="FTV" tvg-id="102" tvg-name="TV2" tvg-logo="https://rcsysx.github.io/iptv/img/102.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSan
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="108"  tvg-name="8TV" tvg-logo="https://rcsysx.github.io/iptv/img/108.png",8TV
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#badbad https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="109" tvg-name="TV9" tvg-logo="https://rcsysx.github.io/iptv/img/109.png",TV9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
@@ -51,9 +51,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvK
 #bad https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozillatvg-name="AstroAwani"
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="502.astro" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
-https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
-
+#badbad https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="502" tvg-name="BERNAMA2" tvg-logo="https://rcsysx.github.io/iptv/img/121.png",Bernama2
 # bad https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
