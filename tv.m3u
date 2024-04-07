@@ -7,32 +7,33 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+#EXTINF:-1 tvg-group="FTV" tvg-id="103.astro" tvg-name="TV3m" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3m
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="103" tvg-name="TV3a" tvg-logo="https://rcsysx.github.io/iptv/img/103.png",TV3a
+#EXTINF:-1 tvg-group="FTV" tvg-id="103" tvg-name="TV3" tvg-logo="https://rcsysx.github.io/iptv/img/103.png",TV3
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="105" tvg-logo="https://rcsysx.github.io/iptv/img/105.png",Enjoy TV5
 # bad https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="DRAMASANGAT" tvg-name="Drama Sangat" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png",Drama Sangat
+#EXTINF:-1 tvg-group="FTV" tvg-id="DRAMASANGATm" tvg-name="Drama Sangatm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DramaSangat.png",Drama Sangatm
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="106" tvg-name="Drama Sangat2" tvg-logo="https://rcsysx.github.io/iptv/img/106.png",Drama Sangat2
+#EXTINF:-1 tvg-group="FTV" tvg-id="106" tvg-name="Drama Sangat" tvg-logo="https://rcsysx.github.io/iptv/img/106.png",Drama Sangat
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="108"  tvg-name="8TV" tvg-logo="https://rcsysx.github.io/iptv/img/108.png",8TV
-#badbad https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
+
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="109" tvg-name="TV9" tvg-logo="https://rcsysx.github.io/iptv/img/109.png",TV9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="110" tvg-name="OKEY2" tvg-logo="https://rcsysx.github.io/iptv/img/110.png",OKEY2
+#EXTINF:-1 tvg-group="FTV" tvg-id="110" tvg-name="OKEY" tvg-logo="https://rcsysx.github.io/iptv/img/110.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-group="FTZ" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEY
+#EXTINF:-1 tvg-group="FTZ" tvg-id="146.astro" tvg-name="OKEYm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",OKEYm
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="111" tvg-name="Sukan RTM" tvg-logo="https://rcsysx.github.io/iptv/img/111.png",Sukan RTM
@@ -50,11 +51,8 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvK
 #EXTINF:-1 tvg-group="FTV" tvg-id="116" tvg-logo="https://rcsysx.github.io/iptv/img/116.png",Suke TV
 #bad https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozillatvg-name="AstroAwani"
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="502.astro" tvg-name="BERNAMA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama
-#badbad https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
-#EXTINF:-1 tvg-group="FTV" tvg-id="502" tvg-name="BERNAMA2" tvg-logo="https://rcsysx.github.io/iptv/img/121.png",Bernama2
-# bad https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+#EXTINF:-1 tvg-group="FTV" tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://rcsysx.github.io/iptv/img/121.png",Bernama
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 tvg-group="FTV" tvg-id="122" tvg-name="TVS" tvg-logo="https://rcsysx.github.io/iptv/img/122.png",TVS
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
@@ -65,11 +63,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-group="FTV" tvg-id="124" tvg-name="BeritaRTM2" tvg-logo="https://rcsysx.github.io/iptv/img/124.png",Berita RTM2
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="117" tvg-name="Tv Ikim2" tvg-logo="https://rcsysx.github.io/iptv/img/117.png",TV IKIM2
+#EXTINF:-1 tvg-group="FTV" tvg-id="117" tvg-name="Tv Ikim" tvg-logo="https://rcsysx.github.io/iptv/img/117.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="tvikim" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+#EXTINF:-1 tvg-group="FTV" tvg-id="tvikimm" tvg-name="Tv Ikimm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikimm
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 
 # -----------------------------------------------
@@ -77,7 +75,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/i
 #EXTINF:-1 tvg-group="FTV" tvg-id="AstroAwani" tvg-name="AstroAwani" tvg-logo="https://rcsysx.github.io/iptv/img/501.png",Astro Awani 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-group="FTV" tvg-id="501.astro" tvg-name="AstroAwani1" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awani1
+#EXTINF:-1 tvg-group="FTV" tvg-id="501.astro" tvg-name="AstroAwanim" tvg-logo="https://1.bp.blogspot.com/-w_6i4b4Io2M/Wj9STvlncHI/AAAAAAAAJ2E/xRPFIZjQrrgumxCKCGvc-kSxvKPxqEnZwCLcBGAs/w320-h178/awani.jpg", Astro Awanim
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 
 # --------------------
